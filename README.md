@@ -1,4 +1,4 @@
-# How-to-add-a-.NET-MAUI-circular-image-to-the-user-profile-using-SfAvatarView
+# How-to-add-a-.NET-MAUI-circle-image-to-the-user-profile-using-SfAvatarView
 
 The SfAvatarView provides a graphical representation of the user profile image that allows you to customize the view by adding a circle image, background color, icon, text, and more. The .NET MAUI circle image can be achieved using the SfAvatarView control with the avatar shape as a circle.
 
